@@ -18,6 +18,13 @@ What I do get is that there is a whole kyc process from [here](https://safepay.h
 
 
 
-# kyc
+# Paddle + local bank and reg
 
-[KYC](https://en.wikipedia.org/wiki/Know_your_customer) is important. Safepay tells you what you need for their kyc. 
+This is cheap but bank reg might not be that easy.
+
+# Next steps
+- [ ] Which banks offer digital opening of business banks
+- [ ] Explore business registeration in pak through iris fbr
+- Is sole proprietership the best option?
+- Include the different types in guide
+- Two guides (Online vs local) (Pros cons)
